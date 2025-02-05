@@ -30,5 +30,5 @@ Some more samples of our analysis:
 - We also completed topic modeling and clustering, and visualized the results. Here is one of the visualizations (Response topics):
 ![image](https://github.com/user-attachments/assets/30c23da2-b358-49c3-a8e6-afbe8cb16d1a)
 
-- The full code and results is in the ipynb file.
+- The full code and results are in the ipynb file.
 
